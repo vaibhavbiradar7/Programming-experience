@@ -13,12 +13,6 @@ namespace Conditional_Statements
             
             try
             {
-                
-               
-                
-              
-                
-                
                  int years = int.Parse(Console.ReadLine());
             
                     switch (years)
